@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "ssbrc:characters/zelda/items/dungeon_items/ice_rod"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-22.56, 90, 0],
+			"translation": [0, 2, 2.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-22.56, -90, 0],
+			"translation": [0, 2, 2.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [3, 0, -1.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [3, 0, -1.5]
+		}
+	}
+}

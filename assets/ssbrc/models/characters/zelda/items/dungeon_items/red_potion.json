@@ -1,0 +1,18 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "ssbrc:misc/empty",
+		"layer1": "ssbrc:characters/zelda/items/dungeon_items/red_potion"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2, 1],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2, 1],
+			"scale": [0.4, 0.4, 0.4]
+		}
+	}
+}
