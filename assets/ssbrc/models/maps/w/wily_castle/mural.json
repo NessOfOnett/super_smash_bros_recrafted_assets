@@ -1,0 +1,94 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "ssbrc:maps/w/wily_castle/donkeykong",
+		"1": "ssbrc:maps/w/wily_castle/dr_w",
+		"2": "ssbrc:maps/w/wily_castle/fox",
+		"3": "ssbrc:maps/w/wily_castle/kirby",
+		"4": "ssbrc:maps/w/wily_castle/link",
+		"5": "ssbrc:maps/w/wily_castle/mario",
+		"6": "ssbrc:maps/w/wily_castle/ness",
+		"7": "ssbrc:maps/w/wily_castle/samus",
+		"8": "ssbrc:maps/w/wily_castle/sonic"
+	},
+	"elements": [
+		{
+			"from": [16, 8, 16],
+			"to": [32, 8, 32],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#5"}
+			}
+		},
+		{
+			"from": [0, 8, 16],
+			"to": [16, 8, 32],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#7"}
+			}
+		},
+		{
+			"from": [-16, 8, 16],
+			"to": [0, 8, 32],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [-16, 8, 0],
+			"to": [0, 8, 16],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#3"}
+			}
+		},
+		{
+			"from": [0, 8, 0],
+			"to": [16, 8, 16],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [16, 8, 0],
+			"to": [32, 8, 16],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#4"}
+			}
+		},
+		{
+			"from": [16, 8, -16],
+			"to": [32, 8, 0],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#8"}
+			}
+		},
+		{
+			"from": [-16, 8, -16],
+			"to": [0, 8, 0],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#2"}
+			}
+		},
+		{
+			"from": [0, 8, -16],
+			"to": [16, 8, 0],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#6"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"scale": [2, 2, 1]
+		}
+	}
+}
