@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_sword"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 400 }, "model": "ssbrc:characters/ganondorf/items/warlock_blade" },
+		{ "predicate": { "custom_model_data": 1900 }, "model": "ssbrc:characters/shadow/items/black_sword" }
+	]
+}

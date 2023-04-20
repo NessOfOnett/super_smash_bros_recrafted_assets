@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/anvil",
+	"display": {
+		"fixed": {
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
+}

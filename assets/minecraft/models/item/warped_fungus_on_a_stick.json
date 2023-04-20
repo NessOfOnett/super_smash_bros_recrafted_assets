@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/handheld_rod",
+	"textures": {
+		"layer0": "minecraft:item/warped_fungus_on_a_stick"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:items/power_pellet" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "ssbrc:items/angel_feather" },
+		{ "predicate": { "custom_model_data": 10000 }, "model": "ssbrc:items/sandbag/default" }
+	]
+}

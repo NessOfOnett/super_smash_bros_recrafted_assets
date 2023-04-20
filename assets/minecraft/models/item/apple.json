@@ -1,0 +1,16 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/apple"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:maps/p/pac_maze/fruit/cherry" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "ssbrc:maps/p/pac_maze/fruit/strawberry" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "ssbrc:maps/p/pac_maze/fruit/orange" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "ssbrc:maps/p/pac_maze/fruit/apple" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "ssbrc:maps/p/pac_maze/fruit/melon" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "ssbrc:maps/p/pac_maze/fruit/galaxian_flagship" },
+		{ "predicate": { "custom_model_data": 7 }, "model": "ssbrc:maps/p/pac_maze/fruit/bell" },
+		{ "predicate": { "custom_model_data": 8 }, "model": "ssbrc:maps/p/pac_maze/fruit/key" }
+	]
+}

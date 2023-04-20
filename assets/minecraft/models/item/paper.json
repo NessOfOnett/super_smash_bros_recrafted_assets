@@ -1,0 +1,18 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/paper"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 600 }, "model": "ssbrc:characters/joker/portraits/archangel" },
+		{ "predicate": { "custom_model_data": 601 }, "model": "ssbrc:characters/joker/portraits/arsene" },
+		{ "predicate": { "custom_model_data": 602 }, "model": "ssbrc:characters/joker/portraits/high_pixie" },
+		{ "predicate": { "custom_model_data": 603 }, "model": "ssbrc:characters/joker/portraits/jack_frost" },
+		{ "predicate": { "custom_model_data": 604 }, "model": "ssbrc:characters/joker/portraits/jack_o_lantern" },
+		{ "predicate": { "custom_model_data": 605 }, "model": "ssbrc:characters/joker/portraits/raoul" },
+		{ "predicate": { "custom_model_data": 606 }, "model": "ssbrc:characters/joker/portraits/sandman" },
+		{ "predicate": { "custom_model_data": 607 }, "model": "ssbrc:characters/joker/portraits/yatagarasu" },
+		{ "predicate": { "custom_model_data": 1520 }, "model": "ssbrc:characters/snake/status/undetected" },
+		{ "predicate": { "custom_model_data": 1521 }, "model": "ssbrc:characters/snake/status/detected" }
+	]
+}

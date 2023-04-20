@@ -1,0 +1,13 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/golden_sword"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 100 }, "model": "ssbrc:characters/byleth/items/sword_of_the_creator" },
+		{ "predicate": { "custom_model_data": 400 }, "model": "ssbrc:characters/ganondorf/items/sword_of_the_six_sages" },
+		{ "predicate": { "custom_model_data": 440 }, "model": "ssbrc:characters/hero/items/sword_of_light" },
+		{ "predicate": { "custom_model_data": 441 }, "model": "ssbrc:characters/hero/items/sword_of_ramias" },
+		{ "predicate": { "custom_model_data": 442 }, "model": "ssbrc:characters/hero/items/zenithian_sword" }
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/diamond"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 110 }, "model": "ssbrc:pokemon/metapod/default" },
+		{ "predicate": { "custom_model_data": 111 }, "model": "ssbrc:pokemon/metapod/shiny" },
+		{ "predicate": { "custom_model_data": 190 }, "model": "ssbrc:pokemon/rattata/default" },
+		{ "predicate": { "custom_model_data": 191 }, "model": "ssbrc:pokemon/rattata/shiny" },
+		{ "predicate": { "custom_model_data": 500 }, "model": "ssbrc:pokemon/diglett/base" },
+		{ "predicate": { "custom_model_data": 501 }, "model": "ssbrc:pokemon/diglett/default" },
+		{ "predicate": { "custom_model_data": 502 }, "model": "ssbrc:pokemon/diglett/shiny" },
+		{ "predicate": { "custom_model_data": 510 }, "model": "ssbrc:pokemon/dugtrio/base" },
+		{ "predicate": { "custom_model_data": 511 }, "model": "ssbrc:pokemon/dugtrio/default" },
+		{ "predicate": { "custom_model_data": 512 }, "model": "ssbrc:pokemon/dugtrio/shiny" },
+		{ "predicate": { "custom_model_data": 630 }, "model": "ssbrc:pokemon/abra/default" },
+		{ "predicate": { "custom_model_data": 631 }, "model": "ssbrc:pokemon/abra/shiny" },
+		{ "predicate": { "custom_model_data": 740 }, "model": "ssbrc:pokemon/geodude/default" },
+		{ "predicate": { "custom_model_data": 741 }, "model": "ssbrc:pokemon/geodude/shiny" },
+		{ "predicate": { "custom_model_data": 790 }, "model": "ssbrc:pokemon/slowpoke/default" },
+		{ "predicate": { "custom_model_data": 791 }, "model": "ssbrc:pokemon/slowpoke/shiny" },
+		{ "predicate": { "custom_model_data": 810 }, "model": "ssbrc:pokemon/magnemite/default/body" },
+		{ "predicate": { "custom_model_data": 811 }, "model": "ssbrc:pokemon/magnemite/default/arms" },
+		{ "predicate": { "custom_model_data": 812 }, "model": "ssbrc:pokemon/magnemite/shiny/body" },
+		{ "predicate": { "custom_model_data": 813 }, "model": "ssbrc:pokemon/magnemite/shiny/arms" },
+		{ "predicate": { "custom_model_data": 920 }, "model": "ssbrc:pokemon/gastly/default" },
+		{ "predicate": { "custom_model_data": 921 }, "model": "ssbrc:pokemon/gastly/shiny" },
+		{ "predicate": { "custom_model_data": 1180 }, "model": "ssbrc:pokemon/goldeen/default" },
+		{ "predicate": { "custom_model_data": 1181 }, "model": "ssbrc:pokemon/goldeen/shiny" },
+		{ "predicate": { "custom_model_data": 1300 }, "model": "ssbrc:pokemon/gyarados/default" },
+		{ "predicate": { "custom_model_data": 1301 }, "model": "ssbrc:pokemon/gyarados/shiny" },
+		{ "predicate": { "custom_model_data": 1310 }, "model": "ssbrc:pokemon/lapras/default" },
+		{ "predicate": { "custom_model_data": 1311 }, "model": "ssbrc:pokemon/lapras/shiny" },
+		{ "predicate": { "custom_model_data": 1430 }, "model": "ssbrc:pokemon/snorlax/default" },
+		{ "predicate": { "custom_model_data": 1431 }, "model": "ssbrc:pokemon/snorlax/shiny" },
+		{ "predicate": { "custom_model_data": 1850 }, "model": "ssbrc:pokemon/sudowoodo/default" },
+		{ "predicate": { "custom_model_data": 1851 }, "model": "ssbrc:pokemon/sudowoodo/shiny" }
+	]
+}

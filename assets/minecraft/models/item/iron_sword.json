@@ -1,0 +1,43 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_sword"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 60 }, "model": "ssbrc:characters/bowser/items/power_band" },
+		{ "predicate": { "custom_model_data": 100 }, "model": "ssbrc:characters/byleth/items/steel_sword" },
+		{ "predicate": { "custom_model_data": 440 }, "model": "ssbrc:characters/hero/items/sword_of_light" },
+		{ "predicate": { "custom_model_data": 441 }, "model": "ssbrc:characters/hero/items/sword_of_ramias" },
+		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:characters/kirby/items/ninja_kirby" },
+		{ "predicate": { "custom_model_data": 1520 }, "model": "ssbrc:characters/snake/items/cqc_knife" },
+
+		{ "predicate": { "custom_model_data": 1840 }, "model": "ssbrc:characters/alucard/items/alucard_sword" },
+		{ "predicate": { "custom_model_data": 1841 }, "model": "ssbrc:characters/alucard/items/crissaegrim" },
+		{ "predicate": { "custom_model_data": 1960 }, "model": "ssbrc:characters/yar/items/killspace_blade" },
+
+		{ "predicate": { "custom_model_data": 9000 }, "model": "ssbrc:characters/zelda/items/weapons/dagger/default" },
+		{ "predicate": { "custom_model_data": 9001 }, "model": "ssbrc:characters/zelda/items/weapons/dagger/emerald" },
+		{ "predicate": { "custom_model_data": 9002 }, "model": "ssbrc:characters/zelda/items/weapons/dagger/glass" },
+		{ "predicate": { "custom_model_data": 9003 }, "model": "ssbrc:characters/zelda/items/weapons/dagger/obsidian" },
+		{ "predicate": { "custom_model_data": 9004 }, "model": "ssbrc:characters/zelda/items/weapons/dagger/ruby" },
+		{ "predicate": { "custom_model_data": 9005 }, "model": "ssbrc:characters/zelda/items/weapons/dagger/titanium" },
+		{ "predicate": { "custom_model_data": 9006 }, "model": "ssbrc:characters/zelda/items/weapons/flail/default" },
+		{ "predicate": { "custom_model_data": 9007 }, "model": "ssbrc:characters/zelda/items/weapons/flail/emerald" },
+		{ "predicate": { "custom_model_data": 9008 }, "model": "ssbrc:characters/zelda/items/weapons/flail/glass" },
+		{ "predicate": { "custom_model_data": 9009 }, "model": "ssbrc:characters/zelda/items/weapons/flail/obsidian" },
+		{ "predicate": { "custom_model_data": 9010 }, "model": "ssbrc:characters/zelda/items/weapons/flail/ruby" },
+		{ "predicate": { "custom_model_data": 9011 }, "model": "ssbrc:characters/zelda/items/weapons/flail/titanium" },
+		{ "predicate": { "custom_model_data": 9012 }, "model": "ssbrc:characters/zelda/items/weapons/rapier/default" },
+		{ "predicate": { "custom_model_data": 9013 }, "model": "ssbrc:characters/zelda/items/weapons/rapier/emerald" },
+		{ "predicate": { "custom_model_data": 9014 }, "model": "ssbrc:characters/zelda/items/weapons/rapier/glass" },
+		{ "predicate": { "custom_model_data": 9015 }, "model": "ssbrc:characters/zelda/items/weapons/rapier/obsidian" },
+		{ "predicate": { "custom_model_data": 9016 }, "model": "ssbrc:characters/zelda/items/weapons/rapier/ruby" },
+		{ "predicate": { "custom_model_data": 9017 }, "model": "ssbrc:characters/zelda/items/weapons/rapier/titanium" },
+		{ "predicate": { "custom_model_data": 9018 }, "model": "ssbrc:characters/zelda/items/weapons/spear/default" },
+		{ "predicate": { "custom_model_data": 9019 }, "model": "ssbrc:characters/zelda/items/weapons/spear/emerald" },
+		{ "predicate": { "custom_model_data": 9020 }, "model": "ssbrc:characters/zelda/items/weapons/spear/glass" },
+		{ "predicate": { "custom_model_data": 9021 }, "model": "ssbrc:characters/zelda/items/weapons/spear/obsidian" },
+		{ "predicate": { "custom_model_data": 9022 }, "model": "ssbrc:characters/zelda/items/weapons/spear/ruby" },
+		{ "predicate": { "custom_model_data": 9023 }, "model": "ssbrc:characters/zelda/items/weapons/spear/titanium" }
+	]
+}

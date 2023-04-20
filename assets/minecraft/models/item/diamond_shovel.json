@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/diamond_shovel"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1920 }, "model": "ssbrc:characters/shovelknight/items/shovel_blade/default/default" },
+		{ "predicate": { "custom_model_data": 1921 }, "model": "ssbrc:characters/shovelknight/items/shovel_blade/default/shovel_drop" },
+		{ "predicate": { "custom_model_data": 1922 }, "model": "ssbrc:characters/shovelknight/items/shovel_blade/toad_shovel/default" },
+		{ "predicate": { "custom_model_data": 1923 }, "model": "ssbrc:characters/shovelknight/items/shovel_blade/toad_shovel/shovel_drop" }
+	]
+}

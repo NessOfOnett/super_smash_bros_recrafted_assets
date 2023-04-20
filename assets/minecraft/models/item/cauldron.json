@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cauldron"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:maps/p/palutenas_temple/fiends_cauldron/default" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "ssbrc:maps/p/palutenas_temple/fiends_cauldron/empty" }
+	]
+}

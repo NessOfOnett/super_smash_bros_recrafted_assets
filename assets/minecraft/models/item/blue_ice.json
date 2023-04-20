@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/blue_ice",
+	"textures": {
+		"layer0": "minecraft:item/blue_ice"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:characters/zelda/items/dungeon_items/ice_block" }
+	]
+}

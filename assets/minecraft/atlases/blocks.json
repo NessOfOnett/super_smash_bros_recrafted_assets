@@ -1,0 +1,64 @@
+{
+	"sources": [
+		{
+			"type": "directory",
+			"source": "characters",
+			"prefix": "characters/"
+		},
+		{
+			"type": "directory",
+			"source": "colors",
+			"prefix": "colors/"
+		},
+		{
+			"type": "directory",
+			"source": "developers",
+			"prefix": "developers/"
+		},
+		{
+			"type": "directory",
+			"source": "inventory_icons",
+			"prefix": "inventory_icons/"
+		},
+		{
+			"type": "directory",
+			"source": "item",
+			"prefix": "item/"
+		},
+		{
+			"type": "directory",
+			"source": "items",
+			"prefix": "items/"
+		},
+		{
+			"type": "directory",
+			"source": "map_icons",
+			"prefix": "map_icons/"
+		},
+		{
+			"type": "directory",
+			"source": "maps",
+			"prefix": "maps/"
+		},
+		{
+			"type": "directory",
+			"source": "misc",
+			"prefix": "misc/"
+		},
+		{
+			"type": "directory",
+			"source": "pokemon",
+			"prefix": "pokemon/"
+		},
+		{
+			"type": "directory",
+			"source": "team_flags",
+			"prefix": "team_flags/"
+		},
+		{
+			"type": "directory",
+			"source": "ui",
+			"prefix": "ui/"
+		}
+	]
+}

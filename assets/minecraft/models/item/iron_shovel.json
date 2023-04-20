@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_shovel"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1920 }, "model": "ssbrc:characters/shovelknight/items/shovel_blade/shovel_of_chaos/default" },
+		{ "predicate": { "custom_model_data": 1921 }, "model": "ssbrc:characters/shovelknight/items/shovel_blade/shovel_of_chaos/shovel_drop" }
+	]
+}
