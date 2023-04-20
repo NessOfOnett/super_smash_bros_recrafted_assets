@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "ssbrc:characters/alucard/items/alucard_sword"
+	}
+}
