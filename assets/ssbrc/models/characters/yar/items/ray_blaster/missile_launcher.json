@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "ssbrc:characters/yar/items/ray_blaster/missile_launcher"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-45, -90, 0],
+			"translation": [0, 2.5, 1],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-45, 90, 0],
+			"translation": [0, 2.5, 1],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1, 2, 4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-25, 90, 0],
+			"translation": [1, 2, 4]
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "ssbrc:characters/yar/items/ray_blaster/gatling_gun/charging"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [25, -90, 0],
+			"translation": [0, 1, -5],
+			"scale": [1.25, 1.25, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [25, 90, 0],
+			"translation": [0, 1, -5],
+			"scale": [1.25, 1.25, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [5, 8.45, 0],
+			"scale": [1.25, 1.25, 2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-25, 90, 0],
+			"translation": [5, 8.45, 0],
+			"scale": [1.25, 1.25, 2]
+		}
+	}
+}

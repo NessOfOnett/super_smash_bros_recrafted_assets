@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "ssbrc:characters/snake/items/famas"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, -22],
+			"translation": [0, 1.25, 3.25],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 22],
+			"translation": [0, 1.25, 3.25],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [-35, -90, 0],
+			"translation": [1.75, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-35, 90, 0],
+			"translation": [1.75, 0, 0]
+		}
+	}
+}

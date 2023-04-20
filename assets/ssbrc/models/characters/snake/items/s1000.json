@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "ssbrc:characters/snake/items/s1000"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [22.5, -90, 0],
+			"translation": [0, 5, -1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [22.5, 90, 0],
+			"translation": [0, 5, -1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-35, -90, 0],
+			"translation": [1.75, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-35, 90, 0],
+			"translation": [1.75, 0, 0]
+		}
+	}
+}
