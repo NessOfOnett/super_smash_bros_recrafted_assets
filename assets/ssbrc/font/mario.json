@@ -1,0 +1,9 @@
+{
+	"providers": [
+		{
+			"type": "ttf",
+			"file": "ssbrc:mario.ttf",
+			"size": 25
+		}
+	]
+}
