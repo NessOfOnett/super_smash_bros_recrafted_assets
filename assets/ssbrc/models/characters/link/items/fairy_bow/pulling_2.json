@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "ssbrc:characters/link/items/fairy_bow/pulling_2"
+    }
+}

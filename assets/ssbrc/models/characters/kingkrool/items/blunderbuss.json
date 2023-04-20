@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "ssbrc:characters/kingkrool/items/blunderbuss"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [60, 90, 0],
+			"translation": [0, 4.5, 3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [60, -90, 0],
+			"translation": [0, 4.5, 3]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 4.5, 3]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 4.5, 3]
+		}
+	}
+}
