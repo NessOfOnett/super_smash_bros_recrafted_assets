@@ -1,0 +1,16 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "ssbrc:maps/h/hyrule_castle/triforce"
+	},
+	"elements": [
+		{
+			"from": [-16, -4, 7.5],
+			"to": [32, 20, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

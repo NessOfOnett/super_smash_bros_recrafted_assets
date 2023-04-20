@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"layer0": "ssbrc:maps/m/miiverse/posts/sora/0",
+		"1": "ssbrc:maps/m/miiverse/signatures/jedimasterhomer"
+	},
+	"elements": [
+		{
+			"from": [-16, -1, 8],
+			"to": [32, 17, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-180, 0, -180],
+			"translation": [0, -2, 0],
+			"scale": [4, 4, 1]
+		}
+	}
+}

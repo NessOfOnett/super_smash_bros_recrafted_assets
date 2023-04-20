@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "ssbrc:maps/l/luigis_mansion/paintings/clockwork_soldiers"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, 15],
+			"to": [32, 32, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [16, 0, 15.93725, 16], "texture": "#0"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.06275, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0.06275], "texture": "#0"},
+				"down": {"uv": [0, 16, 16, 15.93725], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -17.5, -15.5],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 0, -46],
+			"scale": [2, 2, 2]
+		}
+	}
+}
