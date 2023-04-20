@@ -61,6 +61,19 @@
 		{ "predicate": { "custom_model_data": 1000008 }, "model": "ssbrc:developers/peteerrosh" },
 		{ "predicate": { "custom_model_data": 1000009 }, "model": "ssbrc:developers/davidtippy" },
 		{ "predicate": { "custom_model_data": 1000010 }, "model": "ssbrc:developers/ricardo64" },
-		{ "predicate": { "custom_model_data": 1000011 }, "model": "ssbrc:developers/pastapower2k64" }
+		{ "predicate": { "custom_model_data": 1000011 }, "model": "ssbrc:developers/pastapower2k64" },
+
+		{ "predicate": { "custom_model_data": 1400000 }, "model": "ssbrc:characters/ryu/items/ashura_senku/trail/default/faded_0" },
+		{ "predicate": { "custom_model_data": 1401000 }, "model": "ssbrc:characters/ryu/items/ashura_senku/trail/default/faded_1" },
+		{ "predicate": { "custom_model_data": 1402000 }, "model": "ssbrc:characters/ryu/items/ashura_senku/trail/default/faded_2" },
+		{ "predicate": { "custom_model_data": 1403000 }, "model": "ssbrc:characters/ryu/items/ashura_senku/trail/default/faded_3" },
+		{ "predicate": { "custom_model_data": 1404000 }, "model": "ssbrc:characters/ryu/items/ashura_senku/trail/gold/faded_0" },
+		{ "predicate": { "custom_model_data": 1405000 }, "model": "ssbrc:characters/ryu/items/ashura_senku/trail/gold/faded_1" },
+		{ "predicate": { "custom_model_data": 1406000 }, "model": "ssbrc:characters/ryu/items/ashura_senku/trail/gold/faded_2" },
+		{ "predicate": { "custom_model_data": 1407000 }, "model": "ssbrc:characters/ryu/items/ashura_senku/trail/gold/faded_3" },
+		{ "predicate": { "custom_model_data": 1408000 }, "model": "ssbrc:characters/ryu/items/ashura_senku/trail/hot_ryu/faded_0" },
+		{ "predicate": { "custom_model_data": 1409000 }, "model": "ssbrc:characters/ryu/items/ashura_senku/trail/hot_ryu/faded_1" },
+		{ "predicate": { "custom_model_data": 1410000 }, "model": "ssbrc:characters/ryu/items/ashura_senku/trail/hot_ryu/faded_2" },
+		{ "predicate": { "custom_model_data": 1411000 }, "model": "ssbrc:characters/ryu/items/ashura_senku/trail/hot_ryu/faded_3" }
 	]
 }
