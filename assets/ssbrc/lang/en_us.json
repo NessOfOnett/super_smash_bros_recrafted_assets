@@ -22,13 +22,14 @@
 	"ssbrc.statistics.fighter": "Fighter Statistics",
 
 	"ssbrc.statistics.playerProfile": "Player Profile",
+	"ssbrc.statistics.highestWinStreak": "Highest Win Streak: ",
+	"ssbrc.statistics.currentWinStreak": "Current Win Streak: ",
 	"ssbrc.statistics.wins": "Wins: ",
 	"ssbrc.statistics.gamesPlayed": "Games Played: ",
 	"ssbrc.statistics.winLossRatio": "W/L Ratio: ",
 	"ssbrc.statistics.kills": "Kills: ",
 	"ssbrc.statistics.deaths": "Deaths: ",
 	"ssbrc.statistics.killDeathRatio": "K/D Ratio: ",
-	"ssbrc.statistics.highestWinStreak": "Highest Win Streak: ",
 
 	"ssbrc.bonuses.participation": "Participation",
 	"ssbrc.bonuses.win": "Victory",
