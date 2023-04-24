@@ -1035,6 +1035,24 @@
 			}
 		]
 	},
+	"fighters.megaman.black_hole_bomb.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/megaman/black_hole_bomb/activate",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.megaman.mega_buster.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/megaman/mega_buster/activate",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighters.ness.pk_fire.activate": {
 		"sounds":[
 			{
@@ -1166,6 +1184,60 @@
 		"sounds":[
 			{
 				"name":"ssbrc:characters/rob/robo_burner/activate",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.ryu.ashura_senku.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/ryu/ashura_senku/activate",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.ryu.hadouken.activate.strong": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/ryu/hadouken/activate/strong",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.ryu.hadouken.activate.weak": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/ryu/hadouken/activate/weak",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.ryu.satsui_no_hado_rage.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/ryu/satsui_no_hado_rage/activate",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.ryu.satsui_no_hado_rage.deactivate": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/ryu/satsui_no_hado_rage/deactivate",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.ryu.tatsumaki_senpukyaku.loop": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/ryu/tatsumaki_senpukyaku/loop",
 				"stream":false,
 				"volume": 1.0
 			}
